@@ -1,0 +1,10 @@
+########################################
+# Name: <Score Name>                   #
+# Author: <Score Author>               #
+# Video: <Link to a video if deeded>   #
+# Version: <Score Version>             #
+# Date: <Version Release Date>         #
+# BPM: <BPM>                           #
+########################################
+
+Here comes your score :)

@@ -4,8 +4,8 @@
 
 ### Inazuma 稻妻
 
- - [Ruu's Melody 阿瑠的歌 *by 指尖灬旋律丿*](/Inazuma 稻妻/Ruu's Melody 阿瑠的歌.txt)
+ - [Ruu's Melody 阿瑠的歌 *by 指尖灬旋律丿*](./Inazuma 稻妻/Ruu's Melody 阿瑠的歌.txt)
 
 ### Mondstadt 蒙德
 
- - [Moonlike Smile 皎洁的笑颜 *by 指尖灬旋律丿*](/Mondstadt 蒙德/Moonlike Smile 皎洁的笑颜.txt)
+ - [Moonlike Smile 皎洁的笑颜 *by 指尖灬旋律丿*](./Mondstadt 蒙德/Moonlike Smile 皎洁的笑颜.txt)

@@ -1,0 +1,33 @@
+#########################################################
+# Name: Ruu's Melody 阿瑠的歌                           #
+# Author: 指尖灬旋律丿                                  #
+# Video: https://www.bilibili.com/video/BV19v411g78w/   #
+# Version: -                                            #
+# Date: -                                               #
+# BPM: 70                                               #
+#########################################################
+
+(CQ) T (VT) RE(BW)QWE(NQ)  
+G(VQ)  W(CQ)   (XQ)WER(BW)   
+
+(AQ)G(ET) (MT)G(WR)E
+(NW)(DQ)(HW)E(BG)S 
+G(VQ)(AG)DW(CQ)AD 
+(XQ)(NW)(SE)R(BSFW) (BMS) 
+
+(NA)D(HQ) (BJ)SG 
+(VH)A(DG)F(CG)AD 
+(VH)A(FJ)Q(CG)BA 
+(XS)VND(BMS)   
+
+(NA)D(HQ) (BJ)SG 
+(VH)A(DG)F(CG)ADB
+(XA)(VS)(ND)F(BMS)  
+A(ZAF)B(AD)SD   
+
+(AQ) T (MT) RE(NW)QWE(BQ)  
+G(VQ)  W(CQ)   (XQ)WER(BW)   
+(ZQ)B(DT) (BMT) (BSR)E
+(VW)(AQ)(GW)E(CBMQ)  
+G(XQ)NSE(BMSW)  
+Q(ZQ)BSF(ZBAD)

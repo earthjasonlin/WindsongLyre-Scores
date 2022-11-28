@@ -3,6 +3,7 @@
 ## 1. Using 使用说明
 
 You can copy the scores to [WindsongLyre-Sim](https://haveyouwantto.github.io/WindsongLyre-Sim/), set the proper BPM and then enjoy.
+
 您可以复制这些乐谱到 [WindsongLyre-Sim](https://haveyouwantto.github.io/WindsongLyre-Sim/)，在设置好合适的 BPM 之后点击播放。
 
 ## 2. Contributing 提交您的乐谱

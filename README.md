@@ -1,5 +1,9 @@
 # Windsong Lyre Public Scores
 
+***Notice: All scores in this repository are uploaded by volunteers, if you are the owner of one or some score(s), contact me via email to delete it/them.***
+
+***说明：本仓库内所有乐谱皆由网友提供，如果您是期中一首（或多首）的创作者，且您想删除您的乐谱，请通过邮件联系我。***
+
 ## 1. Using 使用说明
 
 You can copy the scores to [WindsongLyre-Sim](https://haveyouwantto.github.io/WindsongLyre-Sim/), set the proper BPM and then enjoy.
